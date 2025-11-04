@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying Systems Analysis and Development / Estou estudando Análise e Desenvolvimento de Sistemas.
 
-- 🌱 I’m currently learning Data Structures, C language, Operational Systems and Algorithms / Estou estudando Estruturas de Dados, Linguagem C, Sistemas Operacionais e Algoritmos.
+- 🌱 I’m currently learning Object-Oriented Programming using Java language, UML Systems design and NoSQL database / Estou estudando Programação Orientada a Objetos usando Linguagem Java, Modelagem de sistemas em UML e Banco de dados NoSQL.
 
 - 👯 I’m looking to collaborate on open-source projects to help the community / Estou buscando colaborar em projetos de código aberto para ajudar a comunidade.
 
